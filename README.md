@@ -1,5 +1,5 @@
-This is the personal website of Irene Kao.
+<p>This is the personal website of Irene Kao.</p>
 
 <p> Website Design Credits:<br>
-- Dimension by HTML5 UP <br>   
-- html5up.net | @ajlkn </p>
+<ul><li> Dimension by HTML5 UP </li>   
+  <li>html5up.net | @ajlkn</li></p>
